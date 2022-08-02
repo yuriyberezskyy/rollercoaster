@@ -5,3 +5,5 @@ if height > 120:
   print("You can ride roalercoaster!")
 else:
   print("You can't ride roalercoaster!!!")
+
+print("Works")
